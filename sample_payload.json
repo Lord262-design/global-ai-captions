@@ -1,0 +1,25 @@
+{
+  "eventType": "FORM_RESPONSE",
+  "eventId": "sample-event",
+  "data": {
+    "submissionId": "sample-submission",
+    "fields": [
+      {
+        "label": "Property details",
+        "value": "Sun-filled modern residence with limestone terraces and a private garden."
+      },
+      {
+        "label": "Bedrooms",
+        "value": "4"
+      },
+      {
+        "label": "Location",
+        "value": "Ikoyi, Lagos"
+      },
+      {
+        "label": "Client email",
+        "value": "client@example.com"
+      }
+    ]
+  }
+}
